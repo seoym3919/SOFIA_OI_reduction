@@ -1,0 +1,8 @@
+MONOCEROSR2
+/mnt/f/OBS/MONOCEROSR2/data/SOFIA/GREAT/OC6N/20181204_F533/raw/r1/data/si/cycle6/20181204_NADINE_HFA_LFA/
+OI_145_U
+PX00,PX01,PX03,PX04,PX05,PX06
+trained_encoder.h5,pca_ncomp018.pkl,trained_neural.h5 
+18
+1024,8,512
+0.67,0.63,0.66,0.65,0.65,0.63
